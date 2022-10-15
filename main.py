@@ -1,5 +1,5 @@
 # Write your code below this line 👇
-
+# START
 # Use the print () function to input every line. Press 'Run' to print the output in the console
 print("Hello World!")
 # Quotation marks tells the computer the items to print will not be executed as actual code but just pieces of texts i.e it prints exactly what was written in the brackets. These are known as 'Strings', because the texts are 'strung up' together
@@ -17,7 +17,7 @@ print("Hello World!")
 
 #Syntax Higlighting gives hint of the code structure and prompts on possible error. Always take note of the color of the code. There must be a color match between quoatation marks or brackets
 
-#Interactive Coding Exercise
+#INTERACTIVE CODING EXERCISE
 #Instructions
 #Write a program in main.py that prints the same notes from the previous lesson using what you have learnt about the Python print function.
 
@@ -29,3 +29,7 @@ print("Hello World!")
 #  Day 1 - Python Print Function
 #  The function is declared like this:
 #  print('what to print')
+
+print('Day 1 - Python Print Function')
+print('The function is declared like this:')
+print("print('what to print')")
