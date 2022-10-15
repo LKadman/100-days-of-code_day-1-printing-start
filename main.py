@@ -16,3 +16,16 @@ print("Hello World!")
 #To fix an error, copy the error message drop in google and open the result in Stack Overflow to see a list of solutions eg 'You are not putting a " before the end of the line.'
 
 #Syntax Higlighting gives hint of the code structure and prompts on possible error. Always take note of the color of the code. There must be a color match between quoatation marks or brackets
+
+#Interactive Coding Exercise
+#Instructions
+#Write a program in main.py that prints the same notes from the previous lesson using what you have learnt about the Python print function.
+
+#Warning: The output in your program should match the example output shown below exactly, character for character, even spaces and symbols should be identical, otherwise the tests won't pass.
+
+#Example Output
+#After you have written your code, you should run your program and it should print the following:
+
+#  Day 1 - Python Print Function
+#  The function is declared like this:
+#  print('what to print')
