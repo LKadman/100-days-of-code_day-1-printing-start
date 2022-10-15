@@ -15,4 +15,4 @@ print("Hello World!")
       
 #To fix an error, copy the error message drop in google and open the result in Stack Overflow to see a list of solutions eg 'You are not putting a " before the end of the line.'
 
-#Syntax Higlighting gives hint of the code structure and prompts on possible error. Always take note of the color of the code. There must be a color match, eg 
+#Syntax Higlighting gives hint of the code structure and prompts on possible error. Always take note of the color of the code. There must be a color match between quoatation marks or brackets
